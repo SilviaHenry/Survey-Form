@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://i.ibb.co/XfHcpRT/Background-Chocolate.png);
+    background-color: #ede0d4, #9c6644; /*brown sugar*/
+    font-family: sans-serif;
+  }
+  .page-content {
+    background-color: #52290b; /*seal brown*/
+    color: #ede0d4; /*almond*/
+    margin: -10px auto;
+    width: 90%;
+    max-width: 800px;
+    min-width: 100px;
+    padding: 0px;
+    border: 10px solid #7F5539; /*coffee*/
+  }
+  main {
+    margin: 0.5rem;
+  }
+  h1 {
+    font-family: serif;
+    text-align: center;
+  }
+  #description {
+    padding-left: 0.5rem;
+    margin: 1rem 0.5rem;
+  }
+  fieldset {
+    border: none;
+  }
+  .basic_info-block {
+    display: block;
+    height: 1.75rem;
+    margin: 10px 0 15px 0;
+    font-family: sans-serif;
+  }
+  #dropdown{
+    display: block;
+    width: 100%;
+    height: 1.75rem;
+    margin: 10px 0 15px 0;
+  }
+  .choice-block {
+    display: block;
+    height: 0.75rem;
+    margin: 0px 0px 15px 0;
+  }
+  .story-block {
+    display: block;
+  }
+  textarea {
+    display: block;
+    width: 95%;
+    margin: 10px 0 15px 0;
+    font-family: sans-serif;
+  }
+  button {
+    font-size: 110%;
+    height: 1.75rem;
+    width: 25%;
+    min-width: 20px;
+    margin: 0 0 1rem 0.8rem;
+  }
+  footer {
+    text-align: center;
+  }
+  
